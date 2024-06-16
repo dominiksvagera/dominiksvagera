@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, programming and graphic design.
 - 🌱 I’m currently learning JavaScript, HTML, CSS and more!
 - 💞️ I’m looking to collaborate on projects such as website development, programming, web design or frontend.
-- 📫 You can reach my by mobile: 739 575 863 or email: dominik.svagera@gmail.com
+- 📫 You can reach me by mobile: 739 575 863 or email: dominik.svagera@gmail.com
 - 🏠 Brno, Czechia
 
 <!---
